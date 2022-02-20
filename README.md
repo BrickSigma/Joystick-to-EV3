@@ -4,6 +4,7 @@ This was once very difficult but now it is possible.
 
 ## Libraries required
 The libraries required are within the `requirements.txt` file.  
+Once the libraries have installed, run the command `pip install --upgrade ev3_dc`. The reason for this is because the installed version will not work correctly with the motors.  
 Along with those, if you want to connect the EV3 via USB, take a look at the [ev3_dc docs](https://ev3-dc.readthedocs.io/en/latest/examples_ev3.html#connect-with-the-ev3-device).  
 
 ## Notes  
